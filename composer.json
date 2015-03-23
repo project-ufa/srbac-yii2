@@ -4,13 +4,12 @@
     "type": "yii2-extension",
     "keywords": ["yii2","srbac"],
     "license": "BSD-3-Clause",
-    "authors": [
-        {
-            "name": "juancrobles",
-            "email": "project.ufa@gmail.com"
-        }
-    ],
-    "require": {
+    "support": {
+      "issues": "https://github.com/project-ufa/yii2-srbac/issues?state=open",
+      "wiki": "https://github.com/project-ufa/yii2-srbac/wiki",
+      "source": "https://github.com/project-ufa/yii2-srbac"
+    },
+     "require": {
         "yiisoft/yii2": "*"
     },
     "autoload": {
