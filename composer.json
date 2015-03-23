@@ -1,0 +1,27 @@
+{
+    "name": "project-ufa/yii2-srbac",
+    "description": "A web interface for administration of rbac (CDbAuthManager)",
+    "type": "yii2-extension",
+    "keywords": ["yii2","srbac"],
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "juancrobles",
+            "email": "project.ufa@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "projectufa\\srbac\\": ""
+        }
+    },
+    "repositories":[
+      {
+        "type": "git",
+        "url": "https://github.com/project-ufa/yii2-srbac"
+      }
+    ]
+}
